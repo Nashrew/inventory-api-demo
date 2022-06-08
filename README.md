@@ -1,5 +1,5 @@
 # inventory-api-demo
-Very Basic Inventory API Companion for Product API Demo
+Extremely Basic Hard Coded Inventory API Companion for Product API Demo
 
 Instructions to build and run as a jar (from base directory):
   - $ ./gradlew bootJar
