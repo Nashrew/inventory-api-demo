@@ -9,3 +9,8 @@ Alternatively (from base directory):
   - $ ./gradlew bootRun
 
 Note - I had to run "$ chmod 755 gradlew" in a fresh ubuntu environment after cloning the repo to avoid permission issues
+
+
+Usage:
+- If you look at the InventoryController you can see it is hard-coded to return an inventory object only for IDs 1 and 2 (/inventories/1 and /inventories/2)
+- Generally, this is a bad idea, I've solely put this out here in case someone wants to run the product-api-demo and have a somewhat functional booking feature
